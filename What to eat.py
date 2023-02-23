@@ -5,11 +5,11 @@ name = ""
 
 #Items for Dinner Decision Maker
 food_dict = {
-    "American" : ["McDonalds", "Freddy's", "Spangles"],
-    "Mexican" : ["Taco Bell", "Rene's"],
-    "Italian" : ["Olive Garden", "Pizza"],
-    "Asian" : ["Panda Express", "Hu-Hot", "Pho"],
-    "BBQ" : ["Hog Wild", "Bite Me BBQ", "When Pigs Fly"]
+    "American" : ["McDonalds", "Freddy's", "Spangles", "AppleBees", "Texas Roadhouse", "Doc Greens"],
+    "Mexican" : ["Taco Bell", "Rene's", "Chipolte", "Carlos O'Kellys", "Jose Peppers", "On the Border"],
+    "Italian" : ["Olive Garden", "Pizza-Hut", "PapaJohns", "Dominos","Fazoli's", "Angelo's"],
+    "Asian" : ["Panda Express", "Hu-Hot", "Pho", "Gangnam", "Tokyo"],
+    "BBQ" : ["Hog Wild", "Bite Me BBQ", "When Pigs Fly", "Station 8 BBQ"]
 }
 
 #Introduction and gets username
